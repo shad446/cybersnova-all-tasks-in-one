@@ -1,4 +1,4 @@
-# data-analytics-portfolio-Copy
+# data-analytics-portfolio
 Python &amp; Data Analytics Projects
 # Data Analytics Portfolio
 
