@@ -28,7 +28,7 @@ Explore academic performance and factors associated with student results.
 
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
-- Dashboard: Add live link if deployed
+- Dashboard:https://student-academic-performance-analysis-z4b5kfewdazfcbem3g9vnp.streamlit.app/
 
 ### 4. Hotel Booking Analysis
 ### 🏨 Hotel Booking Analysis
