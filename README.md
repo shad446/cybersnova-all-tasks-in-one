@@ -21,7 +21,7 @@ Analyze sales performance, product profitability, regional trends, and customer 
 
 - Tools: Python, Pandas, visualization
 - GitHub: Add project link
-- Dashboard: Add live link if deployed
+- Dashboard:https://retail-sales-performance-analysis-7sysm9978fpm2kybmwttus.streamlit.app/
 
 ### 3. Student Academic Performance Analysis
 Explore academic performance and factors associated with student results.
