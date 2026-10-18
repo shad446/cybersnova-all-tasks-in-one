@@ -52,7 +52,7 @@ Explore customer churn patterns and identify potential customer-retention opport
 
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
-- Dashboard: Add live link if deployed
+- Dashboard: https://telecom-customer-churn-analysis-p6kexlcevubyupthkgriyl.streamlit.app/
 
 ## Skills & Technologies
 
