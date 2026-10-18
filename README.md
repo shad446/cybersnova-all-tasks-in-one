@@ -31,11 +31,21 @@ Explore academic performance and factors associated with student results.
 - Dashboard: Add live link if deployed
 
 ### 4. Hotel Booking Analysis
+### 🏨 Hotel Booking Analysis
+
+**Objective:** Analyze hotel booking patterns, cancellations, customer segments, and lead times to identify opportunities to improve revenue and booking management.
+
+**Tools:** Python, Pandas, Plotly, Streamlit
+
+- **GitHub Repository:** [View Source Code](PASTE_YOUR_HOTEL_GITHUB_REPOSITORY_URL_HERE)
+- **Live Dashboard:** https://peexnxzzwhanrutvpzxsne.streamlit.app/
+**Key Insights:** Booking cancellation patterns, cancellation rates by hotel type, customer booking behavior, and opportunities to improve retention.
+
 Investigate booking cancellations and identify opportunities to improve occupancy and revenue.
 
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
-- Dashboard: Add live link if deployed
+- Dashboard:https://peexnxzzwhanrutvpzxsne.streamlit.app/
 
 ### 5. Telecom Customer Churn Analysis
 Explore customer churn patterns and identify potential customer-retention opportunities.
