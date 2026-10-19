@@ -64,7 +64,8 @@ Explore customer churn patterns and identify potential customer-retention opport
 - Streamlit Dashboards
 - Business Insights and Reporting
 - Git and GitHub
-✈️ Airline Operations & Customer Experience Analytics
+- 
+### 6.✈️ Airline Operations & Customer Experience Analytics
 Project Overview
 
 An interactive data analytics project focused on airline operational performance, flight delays, cancellations, and passenger satisfaction.
