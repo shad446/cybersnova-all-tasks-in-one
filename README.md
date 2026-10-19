@@ -64,6 +64,35 @@ Explore customer churn patterns and identify potential customer-retention opport
 - Streamlit Dashboards
 - Business Insights and Reporting
 - Git and GitHub
+6. Airline Operations & Customer Experience Analytics
+
+Objective: Analyze flight operations, delays, cancellations, airline performance, and passenger satisfaction to identify operational improvement opportunities.
+
+Tools: Python, Pandas, Plotly, Streamlit
+
+Key Analysis: Flight volume, departure and arrival delays, cancellation patterns, delay causes, and passenger satisfaction.
+
+GitHub: View Airline Project Source Code
+
+Live Dashboard: Add your Airline Streamlit URL here
+
+Skills & Technologies
+
+Python
+
+Pandas and NumPy
+
+Exploratory Data Analysis (EDA)
+
+Data Cleaning and Preprocessing
+
+Data Visualization with Plotly
+
+Interactive Streamlit Dashboards
+
+Business Insights and Reporting
+
+Git and GitHub
 
 ## Contact
 
