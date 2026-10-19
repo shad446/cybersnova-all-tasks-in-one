@@ -64,35 +64,41 @@ Explore customer churn patterns and identify potential customer-retention opport
 - Streamlit Dashboards
 - Business Insights and Reporting
 - Git and GitHub
-6. Airline Operations & Customer Experience Analytics
+✈️ Airline Operations & Customer Experience Analytics
+Project Overview
 
-Objective: Analyze flight operations, delays, cancellations, airline performance, and passenger satisfaction to identify operational improvement opportunities.
+An interactive data analytics project focused on airline operational performance, flight delays, cancellations, and passenger satisfaction.
 
-Tools: Python, Pandas, Plotly, Streamlit
+Tools & Technologies: Python · Pandas · Plotly · Streamlit
 
-Key Analysis: Flight volume, departure and arrival delays, cancellation patterns, delay causes, and passenger satisfaction.
+Key Features
 
-GitHub: View Airline Project Source Code
+Airline performance and flight volume analysis
+Flight delay and cancellation analysis
+Delay causes and operational insights
+Passenger satisfaction analysis
+Interactive filters, charts, and data exploration
+Key Business Insights
 
-Live Dashboard: Add your Airline Streamlit URL here
+Analyzed 3 million flight records.
+Identified late aircraft and carrier-related issues as major contributors to total delay minutes.
+Compared airline cancellation rates and operational performance.
+Examined passenger satisfaction patterns to support customer experience improvements.
+Project Links
 
-Skills & Technologies
+🚀 **Live Interactive Dashboard: https://airline-operations-customer-experience-8fvlcgtpbed2rjrlhpn7rk.streamlit.app/
+💻 GitHub Repository: https://github.com/shad446/airline-operations-customer-experience
+Business Recommendations
 
-Python
+Improve aircraft turnaround and schedule recovery processes.
+Investigate recurring carrier-related delays.
+Monitor cancellation rates to identify operational risks.
+Use passenger satisfaction findings to prioritize service improvements.
+Data Sources
 
-Pandas and NumPy
-
-Exploratory Data Analysis (EDA)
-
-Data Cleaning and Preprocessing
-
-Data Visualization with Plotly
-
-Interactive Streamlit Dashboards
-
-Business Insights and Reporting
-
-Git and GitHub
+Flight Delay and Cancellation Dataset
+Airline Passenger Satisfaction Dataset
+Note: Flight operations and passenger satisfaction were analyzed as separate datasets and were not linked at the individual passenger or flight level.
 
 ## Contact
 
