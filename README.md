@@ -9,28 +9,23 @@ Welcome to my Data Analytics Portfolio! I build data-driven projects using Pytho
 This portfolio showcases practical data analytics projects involving business problems, data cleaning, exploratory analysis, visualizations, and interactive dashboards.
 
 ## Featured Projects
+                                ### BEGINNER LEVEL 
 
-### 1. Banking Loan Risk Assessment
-**Objective:** Analyze credit and loan risk patterns to support data-informed lending decisions.
-
-- Tools: Python, Pandas, data visualization, Streamlit
-- [View Source Code on GitHub](https://github.com/shad446/banking-loan-risk-assessment)
-- Live Dashboard: https://banking-loan-risk-assessment-fgiys8zkgnjzxanxuww9uz.streamlit.app/
-### 2. Retail Sales Performance Analysis
+### 1. Retail Sales Performance Analysis
 Analyze sales performance, product profitability, regional trends, and customer segments.
 
 - Tools: Python, Pandas, visualization
 - GitHub: Add project link
 - Dashboard:https://retail-sales-performance-analysis-7sysm9978fpm2kybmwttus.streamlit.app/
 
-### 3. Student Academic Performance Analysis
+### 2. Student Academic Performance Analysis
 Explore academic performance and factors associated with student results.
 
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
 - Dashboard:https://student-academic-performance-analysis-z4b5kfewdazfcbem3g9vnp.streamlit.app/
 
-### 4. Hotel Booking Analysis
+### 3. Hotel Booking Analysis
 ### 🏨 Hotel Booking Analysis
 
 **Objective:** Analyze hotel booking patterns, cancellations, customer segments, and lead times to identify opportunities to improve revenue and booking management.
@@ -46,14 +41,19 @@ Investigate booking cancellations and identify opportunities to improve occupanc
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
 - Dashboard:https://peexnxzzwhanrutvpzxsne.streamlit.app/
-
-### 5. Telecom Customer Churn Analysis
+                                  ### INTERMEDIATE LEVEL
+### 1. Telecom Customer Churn Analysis
 Explore customer churn patterns and identify potential customer-retention opportunities.
 
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
 - Dashboard: https://telecom-customer-churn-analysis-p6kexlcevubyupthkgriyl.streamlit.app/
+### 2. Banking Loan Risk Assessment
+**Objective:** Analyze credit and loan risk patterns to support data-informed lending decisions.
 
+- Tools: Python, Pandas, data visualization, Streamlit
+- [View Source Code on GitHub](https://github.com/shad446/banking-loan-risk-assessment)
+- Live Dashboard: https://banking-loan-risk-assessment-fgiys8zkgnjzxanxuww9uz.streamlit.app/
 ## Skills & Technologies
 
 - Python
@@ -64,8 +64,8 @@ Explore customer churn patterns and identify potential customer-retention opport
 - Streamlit Dashboards
 - Business Insights and Reporting
 - Git and GitHub
-- 
-### 6.✈️ Airline Operations & Customer Experience Analytics
+                                      ### ADVANCE LEVEL 
+### 1.✈️ Airline Operations & Customer Experience Analytics
 Project Overview
 
 An interactive data analytics project focused on airline operational performance, flight delays, cancellations, and passenger satisfaction.
