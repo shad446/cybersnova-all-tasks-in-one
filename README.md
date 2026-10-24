@@ -9,7 +9,7 @@ Welcome to my Data Analytics Portfolio! I build data-driven projects using Pytho
 This portfolio showcases practical data analytics projects involving business problems, data cleaning, exploratory analysis, visualizations, and interactive dashboards.
 
 ## Featured Projects
-                                ### BEGINNER LEVEL 
+### BEGINNER LEVEL 
 
 ### 1. Retail Sales Performance Analysis
 Analyze sales performance, product profitability, regional trends, and customer segments.
@@ -41,7 +41,7 @@ Investigate booking cancellations and identify opportunities to improve occupanc
 - Tools: Python, Pandas, data visualization
 - GitHub: Add project link
 - Dashboard:https://peexnxzzwhanrutvpzxsne.streamlit.app/
-                                  ### INTERMEDIATE LEVEL
+### INTERMEDIATE LEVEL
 ### 1. Telecom Customer Churn Analysis
 Explore customer churn patterns and identify potential customer-retention opportunities.
 
@@ -64,7 +64,7 @@ Explore customer churn patterns and identify potential customer-retention opport
 - Streamlit Dashboards
 - Business Insights and Reporting
 - Git and GitHub
-                                      ### ADVANCE LEVEL 
+### ADVANCE LEVEL 
 ### 1.✈️ Airline Operations & Customer Experience Analytics
 Project Overview
 
