@@ -1,14 +1,5 @@
 # CYBERSNOVA INTERNSHIP ALL TASKS IN ONE 
-Python &amp; Data Analytics Projects
-# Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! I build data-driven projects using Python, data visualization, exploratory data analysis, and interactive dashboards to uncover meaningful business insights.
-
-## About This Portfolio
-
-This portfolio showcases practical data analytics projects involving business problems, data cleaning, exploratory analysis, visualizations, and interactive dashboards.
-
-## Featured Projects
 ### BEGINNER LEVEL 
 
 ### 1. Retail Sales Performance Analysis
