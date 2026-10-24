@@ -6,14 +6,14 @@
 Analyze sales performance, product profitability, regional trends, and customer segments.
 
 - Tools: Python, Pandas, visualization
-- GitHub: Add project link
+- GitHub: view source code
 - Dashboard:https://retail-sales-performance-analysis-7sysm9978fpm2kybmwttus.streamlit.app/
 
 ### 2. Student Academic Performance Analysis
 Explore academic performance and factors associated with student results.
 
 - Tools: Python, Pandas, data visualization
-- GitHub: Add project link
+- GitHub: view source code
 - Dashboard:https://student-academic-performance-analysis-z4b5kfewdazfcbem3g9vnp.streamlit.app/
 
 ### 3. Hotel Booking Analysis
@@ -30,14 +30,14 @@ Explore academic performance and factors associated with student results.
 Investigate booking cancellations and identify opportunities to improve occupancy and revenue.
 
 - Tools: Python, Pandas, data visualization
-- GitHub: Add project link
+- GitHub: view source code
 - Dashboard:https://peexnxzzwhanrutvpzxsne.streamlit.app/
 ### INTERMEDIATE LEVEL
 ### 1. Telecom Customer Churn Analysis
 Explore customer churn patterns and identify potential customer-retention opportunities.
 
 - Tools: Python, Pandas, data visualization
-- GitHub: Add project link
+- GitHub: view source code
 - Dashboard: https://telecom-customer-churn-analysis-p6kexlcevubyupthkgriyl.streamlit.app/
 ### 2. Banking Loan Risk Assessment
 **Objective:** Analyze credit and loan risk patterns to support data-informed lending decisions.
