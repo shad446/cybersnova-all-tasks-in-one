@@ -1,4 +1,4 @@
-# CYBERSNOVA INTERNSHIP ALL TASK IN ONE 
+# CYBERSNOVA INTERNSHIP ALL TASKS IN ONE 
 Python &amp; Data Analytics Projects
 # Data Analytics Portfolio
 
