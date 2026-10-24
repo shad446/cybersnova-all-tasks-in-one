@@ -27,7 +27,6 @@ Explore academic performance and factors associated with student results.
 Investigate booking cancellations and identify opportunities to improve occupancy and revenue.
 
 - Tools: Python, Pandas, data visualization
-- GitHub: view source code
 - Dashboard:https://peexnxzzwhanrutvpzxsne.streamlit.app/
 ### INTERMEDIATE LEVEL
 ### 1. Telecom Customer Churn Analysis
