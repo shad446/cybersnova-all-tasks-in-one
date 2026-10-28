@@ -1,4 +1,4 @@
-# CYBERSNOVA INTERNSHIP ALL TASKS IN ONE 
+# Data Analysis Projects  
 
 ### BEGINNER LEVEL 
 
